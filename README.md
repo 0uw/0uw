@@ -21,11 +21,11 @@
 
 Discord= discord.gg/FurTTms8QU
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/exackitlysix">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com  ">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UC5wW_-Tff81lznVQfHRUrLQ">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
 </p> 
 
