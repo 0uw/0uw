@@ -5,11 +5,3 @@
     <br><br>
     
 [![Discord Presence](https://lanyard.cnrad.dev/api/896822352753594388)](https://discord.com/users/896822352753594388)
-
-</samp>
-
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
-</p>
-
-
